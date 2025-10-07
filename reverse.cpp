@@ -26,8 +26,8 @@ public:
 int main() 
 {
     Solution sol;
-    cout << sol.reverse(123) << endl; 
+    cout << sol.reverse(123) << endl;   
     cout << sol.reverse(-123) << endl;  
-    cout << sol.reverse(120) << endl;   
+    cout << sol.reverse(120) << endl;  
     return 0;
 }
